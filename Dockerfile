@@ -1,1 +1,1 @@
-Dockerfile.amd64
+Dockerfile.arm64
